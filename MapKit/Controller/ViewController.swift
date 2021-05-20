@@ -25,6 +25,7 @@ class ViewController: UIViewController, YMKClusterListener, YMKClusterTapListene
     private let MARGIN_SIZE: CGFloat = 3
     private let STROKE_SIZE: CGFloat = 3
 
+    let a = 0
     override func viewDidLoad() {
         super.viewDidLoad()
 
